@@ -1,0 +1,9 @@
+"title": "wear the code",
+"slug": "wear-the-code",
+"desc": "desciptiodv",
+"img": "imageessdf",
+"category": "tshirt",
+"size": "xl",
+"color": "Blue",
+"price": "499",
+"availableQty": "20"
